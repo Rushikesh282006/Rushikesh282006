@@ -115,7 +115,7 @@ demo](https://house-price-predictor-gd9p.onrender.com/)**
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Rushikesh282006&show_icons=true&theme=radical" alt="GitHub Stats" />
+ <img src="https://streak-stats.demolab.com?user=Rushikesh282006&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=a855f7&currStreakLabel=38bdf8" alt="Streak" height="170" /> 
   <br><br>
 </div>
 
