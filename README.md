@@ -41,21 +41,59 @@
 
 ### 🛠️ Featured Projects
 
-🔗 **[Multi-Tenant RAG AI System](https://document-rag-olive.vercel.app/)**
-<br>Secure, context-aware AI backend architecture built to provide query responses across isolated user environments.
-<br>**Tech Stack:** Python, FastAPI, LLMs, Vector Databases (pgvector(postgres/Neon), LangChain
+### 1. Multi-Tenant Document RAG Platform
 
-<br>
+**Python · FastAPI · PostgreSQL · pgvector · Celery · Redis · React ·
+Docker**
 
-🔗 **[Emotion Scanner](https://emotion-predictor-j013.onrender.com/)**
-<br>Real-time NLP emotion detection web app that classifies text into six emotion categories with confidence scores.
-<br>**Tech Stack:** Python, Custom Bi-GRU Neural Network, TensorFlow Lite, FastAPI, Vanilla JS
+A document question-answering application designed to keep each user's
+documents and retrieval context isolated.
 
-<br>
+-   Built PDF ingestion and background processing with Celery and Redis.
+-   Implemented hybrid retrieval using pgvector similarity search and
+    PostgreSQL full-text search, combined with Reciprocal Rank Fusion.
+-   Streamed responses through Server-Sent Events and included
+    source-page citations in answers.
+-   Designed tenant-scoped data access in the application and database
+    layer.
 
-🔗 **[House Price Predictor](https://house-price-predictor-gd9p.onrender.com/)**
-<br>End-to-end machine learning pipeline training a Random Forest Regressor, wrapped in a REST API.
-<br>**Tech Stack:** Python, Scikit-learn, FastAPI, Pydantic, NumPy
+**[Source code](https://github.com/Rushikesh282006/Document_Rag) 
+|
+[Live
+demo](https://document-rag-olive.vercel.app/)**
+
+### 2. Emotion Scanner
+
+**Python · Bi-GRU · TensorFlow Lite · FastAPI · JavaScript**
+
+A text-based emotion classification application that predicts one of six
+emotion categories and returns confidence scores.
+
+-   Trained a custom Bidirectional GRU model for text classification.
+-   Converted and served the model using TensorFlow Lite behind a
+    FastAPI endpoint.
+-   Built a web interface for real-time text predictions.
+
+**[Source code](https://github.com/Rushikesh282006/Emotion_Predictor) |
+[Live demo](https://emotion-predictor-j013.onrender.com/)**
+
+### 3. House Price Predictor
+
+**Python · scikit-learn · Random Forest · FastAPI · Pydantic · Docker**
+
+An end-to-end regression application for estimating California house
+values from individual inputs or batch CSV uploads.
+
+-   Trained a Random Forest regression model using the California
+    Housing dataset (20,640 records).
+-   Built prediction endpoints with Pydantic input validation and batch
+    CSV support.
+-   Reported model performance: **R² ≈ 0.805** and **MAE ≈ \$32,800**.
+
+**[Source
+code](https://github.com/Rushikesh282006/House_Price_Predictor) | [Live
+demo](https://house-price-predictor-gd9p.onrender.com/)**
+
 
 ---
 
