@@ -1,4 +1,4 @@
-name: Update live stats
+name: main
 
 on:
   schedule:
