@@ -32,14 +32,9 @@
 <!-- ═════════════ ABOUT ═════════════ -->
 ## 🚀 About Me
 
-```python
-class Rushikesh:
-    role     = "Python Backend Developer · ML Engineer"
-    studying = "B.E. Information Technology (3rd year)"
-    building = ["Multi-tenant RAG platforms", "ML pipelines", "Scalable FastAPI services"]
-    exploring = ["Graph Neural Networks", "Advanced ML architectures"]
-    looking_for = "Impactful open-source projects & authentic teamwork"
-```
+<div align="center">
+<img src="./assets/about.svg" alt="About Rushikesh: third-year IT engineering student with a 9.7 CGPA, building end-to-end ML pipelines and AI-integrated scalable backends, open to open-source collaboration" width="100%" />
+</div>
 
 <br/>
 
