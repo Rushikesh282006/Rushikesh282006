@@ -48,31 +48,9 @@ class Rushikesh:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,java,c,fastapi,tensorflow,sklearn,pandas,numpy&perline=8" alt="Core" />
-<br/>
-<img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind,mysql,postgres,mongodb&perline=8" alt="Web and DB" />
-<br/>
-<img src="https://skillicons.dev/icons?i=redis,docker,git,github,postman,vercel&perline=6" alt="Tools" />
+<img src="./assets/tech-stack.svg" alt="Tech stack: Python, Java, C, FastAPI, TensorFlow, React, PostgreSQL, Docker and more" width="100%" />
 
 </div>
-
-<br/>
-
-<details open>
-<summary><b>📚 Full breakdown</b></summary>
-
-<br/>
-
-| Area | Technologies |
-|:--|:--|
-| **Languages** | `Python` `Java` `C` |
-| **Backend** | `FastAPI` `Pydantic` `SQLAlchemy` `Celery` `Redis` |
-| **AI / ML / Data** | `TensorFlow` `Scikit-learn` `Pandas` `NumPy` `LLMs` `RAG Architecture` `Vector DBs` |
-| **Frontend** | `HTML5` `CSS3` `JavaScript` `React` `Tailwind CSS` |
-| **Databases** | `MySQL` `MongoDB` `PostgreSQL (pgvector)` |
-| **Tools** | `Git` `GitHub` `Postman` `Power BI` `Docker` `Antigravity` |
-
-</details>
 
 <br/>
 
