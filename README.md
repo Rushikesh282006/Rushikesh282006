@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 # Hi 👋 I'm Rushikesh
 
@@ -124,4 +124,4 @@ demo](https://house-price-predictor-gd9p.onrender.com/)**
 ### 📊 Problem Solving Stats
   <div align="center">
   <img src="https://leetcard.jacoblin.cool/Rushi_28?theme=dark&font=Fira%20Code&ext=activity" alt="LeetCode Stats" width="48%" />
-</div>
+</div> -->
