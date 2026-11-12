@@ -13,7 +13,7 @@
 <rect width="1000" height="340" rx="18" fill="url(#bg)"/><rect x=".5" y=".5" width="999" height="339" rx="18" fill="none" stroke="#38bdf8" stroke-opacity=".25"/>
 <rect x="40" y="19" width="64" height="22" rx="11" fill="#4ade80" fill-opacity=".12" stroke="#4ade80" stroke-opacity=".55"/><circle cx="56" cy="30" r="4" fill="#4ade80"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/><animate attributeName="r" values="3.5;5;3.5" dur="1.6s" repeatCount="indefinite"/></circle><text x="68" y="34" font-family="'Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="10.5" font-weight="700" fill="#4ade80" letter-spacing="1.5">LIVE</text>
 <text x="116" y="36" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="700" fill="#f1f5f9">LeetCode · Rushi_28</text>
-<text x="960" y="35" text-anchor="end" font-family="'Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="10.5" fill="#64748b">synced 2026-11-12 14:15 UTC</text>
+<text x="960" y="35" text-anchor="end" font-family="'Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="10.5" fill="#64748b">synced 2026-11-12 21:39 UTC</text>
 <circle cx="150" cy="168" r="62" fill="none" stroke="#1e293b" stroke-width="14"/>
 <circle class="c" cx="150" cy="168" r="62" fill="none" stroke="#22c55e" stroke-width="14" stroke-dasharray="221.44 389.56" stroke-dashoffset="-0.00" transform="rotate(-90 150 168)" style="animation-delay:0.20s"/>
 <circle class="c" cx="150" cy="168" r="62" fill="none" stroke="#f59e0b" stroke-width="14" stroke-dasharray="158.45 389.56" stroke-dashoffset="-223.94" transform="rotate(-90 150 168)" style="animation-delay:0.55s"/>
