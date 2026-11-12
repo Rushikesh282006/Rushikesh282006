@@ -13,7 +13,7 @@
 <rect width="1000" height="436" rx="18" fill="url(#bg)"/><rect x=".5" y=".5" width="999" height="435" rx="18" fill="none" stroke="#38bdf8" stroke-opacity=".25"/>
 <rect x="40" y="19" width="64" height="22" rx="11" fill="#4ade80" fill-opacity=".12" stroke="#4ade80" stroke-opacity=".55"/><circle cx="56" cy="30" r="4" fill="#4ade80"><animate attributeName="opacity" values="1;.25;1" dur="1.6s" repeatCount="indefinite"/><animate attributeName="r" values="3.5;5;3.5" dur="1.6s" repeatCount="indefinite"/></circle><text x="68" y="34" font-family="'Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="10.5" font-weight="700" fill="#4ade80" letter-spacing="1.5">LIVE</text>
 <text x="116" y="36" font-family="'Segoe UI',-apple-system,'Helvetica Neue',Arial,sans-serif" font-size="17" font-weight="700" fill="#f1f5f9">GitHub activity · @Rushikesh282006</text>
-<text x="960" y="35" text-anchor="end" font-family="'Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="10.5" fill="#64748b">synced 2026-11-11 21:39 UTC</text>
+<text x="960" y="35" text-anchor="end" font-family="'Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="10.5" fill="#64748b">synced 2026-11-12 04:52 UTC</text>
 <text x="140" y="77" font-family="'Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#64748b">Dec</text>
 <text x="204" y="77" font-family="'Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#64748b">Jan</text>
 <text x="268" y="77" font-family="'Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#64748b">Feb</text>
@@ -395,7 +395,8 @@
 <rect class="c" x="908" y="86" width="13" height="13" rx="3" fill="#c084fc" style="animation-delay:1.14s"/>
 <rect class="c" x="908" y="102" width="13" height="13" rx="3" fill="#151c36" style="animation-delay:1.14s"/>
 <rect class="c" x="908" y="118" width="13" height="13" rx="3" fill="#151c36" style="animation-delay:1.14s"/>
-<rect class="c today" x="908" y="134" width="13" height="13" rx="3" fill="#151c36" stroke="#f8fafc" stroke-width="1.4" style="animation-delay:1.14s"/>
+<rect class="c" x="908" y="134" width="13" height="13" rx="3" fill="#151c36" style="animation-delay:1.14s"/>
+<rect class="c today" x="908" y="150" width="13" height="13" rx="3" fill="#151c36" stroke="#f8fafc" stroke-width="1.4" style="animation-delay:1.14s"/>
 <g clip-path="url(#hm)"><rect y="86" width="140" height="109" fill="url(#sweep)"><animateTransform attributeName="transform" type="translate" from="-140 0" to="1000 0" dur="6s" repeatCount="indefinite"/></rect></g>
 <text x="770" y="216" text-anchor="end" font-family="'Fira Code','SF Mono',Consolas,'DejaVu Sans Mono',monospace" font-size="10" fill="#64748b">Less</text>
 <rect x="778" y="206" width="13" height="13" rx="3" fill="#151c36"/>
