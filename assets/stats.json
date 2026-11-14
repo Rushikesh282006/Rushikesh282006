@@ -95,7 +95,7 @@
    "2026-11-13": 5,
    "2026-11-14": 3
   },
-  "synced": "2026-11-14 12:42 UTC"
+  "synced": "2026-11-14 19:35 UTC"
  },
  "leetcode": {
   "totals": {
@@ -105,13 +105,18 @@
    "Hard": 989
   },
   "solved": {
-   "All": 167,
-   "Easy": 96,
+   "All": 168,
+   "Easy": 97,
    "Medium": 69,
    "Hard": 2
   },
   "rank": 1070172,
   "recent": [
+   {
+    "title": "Minimum Positive Sum Subarray ",
+    "slug": "minimum-positive-sum-subarray",
+    "ts": 1794673994
+   },
    {
     "title": "Keys and Rooms",
     "slug": "keys-and-rooms",
@@ -131,15 +136,10 @@
     "title": "Average Selling Price",
     "slug": "average-selling-price",
     "ts": 1792514111
-   },
-   {
-    "title": "Find Target Indices After Sorting Array",
-    "slug": "find-target-indices-after-sorting-array",
-    "ts": 1792434246
    }
   ],
   "streak": 24,
-  "active_days": 105,
-  "synced": "2026-11-14 12:42 UTC"
+  "active_days": 106,
+  "synced": "2026-11-14 19:35 UTC"
  }
 }
