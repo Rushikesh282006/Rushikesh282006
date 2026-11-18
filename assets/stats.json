@@ -8,7 +8,7 @@
    [
     "Python",
     "#3572A5",
-    229738
+    277079
    ],
    [
     "TypeScript",
@@ -38,7 +38,7 @@
   ],
   "days": {
    "2025-01-27": 1,
-   "2025-09-23": 8,
+   "2025-09-23": 7,
    "2025-11-10": 4,
    "2025-11-11": 1,
    "2026-01-31": 4,
@@ -96,9 +96,9 @@
    "2026-11-14": 3,
    "2026-11-15": 2,
    "2026-11-17": 1,
-   "2026-11-18": 4
+   "2026-11-18": 9
   },
-  "synced": "2026-11-18 10:53 UTC"
+  "synced": "2026-11-18 19:44 UTC"
  },
  "leetcode": {
   "totals": {
@@ -116,6 +116,21 @@
   "rank": 1052077,
   "recent": [
    {
+    "title": "Top K Frequent Elements",
+    "slug": "top-k-frequent-elements",
+    "ts": 1795029943
+   },
+   {
+    "title": "Contains Duplicate",
+    "slug": "contains-duplicate",
+    "ts": 1795028659
+   },
+   {
+    "title": "Two Sum",
+    "slug": "two-sum",
+    "ts": 1795028084
+   },
+   {
     "title": "Calculate Digit Sum of a String",
     "slug": "calculate-digit-sum-of-a-string",
     "ts": 1794925253
@@ -124,25 +139,10 @@
     "title": "Number of Sub-arrays With Odd Sum",
     "slug": "number-of-sub-arrays-with-odd-sum",
     "ts": 1794740580
-   },
-   {
-    "title": "Minimum Positive Sum Subarray ",
-    "slug": "minimum-positive-sum-subarray",
-    "ts": 1794673994
-   },
-   {
-    "title": "Keys and Rooms",
-    "slug": "keys-and-rooms",
-    "ts": 1792767271
-   },
-   {
-    "title": "Minimum Operations to Sort a Permutation",
-    "slug": "minimum-operations-to-sort-a-permutation",
-    "ts": 1792693222
    }
   ],
   "streak": 24,
-  "active_days": 108,
-  "synced": "2026-11-18 10:53 UTC"
+  "active_days": 109,
+  "synced": "2026-11-18 19:44 UTC"
  }
 }
