@@ -96,9 +96,10 @@
    "2026-11-14": 3,
    "2026-11-15": 2,
    "2026-11-17": 1,
-   "2026-11-18": 9
+   "2026-11-18": 9,
+   "2026-11-19": 2
   },
-  "synced": "2026-11-19 10:55 UTC"
+  "synced": "2026-11-19 19:45 UTC"
  },
  "leetcode": {
   "totals": {
@@ -108,13 +109,18 @@
    "Hard": 991
   },
   "solved": {
-   "All": 170,
+   "All": 171,
    "Easy": 98,
-   "Medium": 70,
+   "Medium": 71,
    "Hard": 2
   },
   "rank": 1052467,
   "recent": [
+   {
+    "title": "Minimum Score by Changing Two Elements",
+    "slug": "minimum-score-by-changing-two-elements",
+    "ts": 1795112545
+   },
    {
     "title": "Top K Frequent Elements",
     "slug": "top-k-frequent-elements",
@@ -134,15 +140,10 @@
     "title": "Calculate Digit Sum of a String",
     "slug": "calculate-digit-sum-of-a-string",
     "ts": 1794925253
-   },
-   {
-    "title": "Number of Sub-arrays With Odd Sum",
-    "slug": "number-of-sub-arrays-with-odd-sum",
-    "ts": 1794740580
    }
   ],
   "streak": 24,
-  "active_days": 109,
-  "synced": "2026-11-19 10:55 UTC"
+  "active_days": 110,
+  "synced": "2026-11-19 19:45 UTC"
  }
 }
