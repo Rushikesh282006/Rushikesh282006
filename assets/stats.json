@@ -99,7 +99,7 @@
    "2026-11-18": 9,
    "2026-11-19": 2
   },
-  "synced": "2026-11-20 10:43 UTC"
+  "synced": "2026-11-20 19:25 UTC"
  },
  "leetcode": {
   "totals": {
@@ -109,13 +109,28 @@
    "Hard": 991
   },
   "solved": {
-   "All": 171,
-   "Easy": 98,
+   "All": 173,
+   "Easy": 100,
    "Medium": 71,
    "Hard": 2
   },
   "rank": 1046551,
   "recent": [
+   {
+    "title": "First Bad Version",
+    "slug": "first-bad-version",
+    "ts": 1795186968
+   },
+   {
+    "title": "Search Insert Position",
+    "slug": "search-insert-position",
+    "ts": 1795183819
+   },
+   {
+    "title": "Binary Search",
+    "slug": "binary-search",
+    "ts": 1795182967
+   },
    {
     "title": "Minimum Score by Changing Two Elements",
     "slug": "minimum-score-by-changing-two-elements",
@@ -125,25 +140,10 @@
     "title": "Top K Frequent Elements",
     "slug": "top-k-frequent-elements",
     "ts": 1795029943
-   },
-   {
-    "title": "Contains Duplicate",
-    "slug": "contains-duplicate",
-    "ts": 1795028659
-   },
-   {
-    "title": "Two Sum",
-    "slug": "two-sum",
-    "ts": 1795028084
-   },
-   {
-    "title": "Calculate Digit Sum of a String",
-    "slug": "calculate-digit-sum-of-a-string",
-    "ts": 1794925253
    }
   ],
   "streak": 24,
-  "active_days": 110,
-  "synced": "2026-11-20 10:43 UTC"
+  "active_days": 111,
+  "synced": "2026-11-20 19:25 UTC"
  }
 }
