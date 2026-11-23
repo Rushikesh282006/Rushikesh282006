@@ -100,7 +100,7 @@
    "2026-11-19": 2,
    "2026-11-21": 2
   },
-  "synced": "2026-11-23 01:14 UTC"
+  "synced": "2026-11-23 11:30 UTC"
  },
  "leetcode": {
   "totals": {
@@ -110,13 +110,23 @@
    "Hard": 993
   },
   "solved": {
-   "All": 173,
+   "All": 174,
    "Easy": 100,
-   "Medium": 71,
+   "Medium": 72,
    "Hard": 2
   },
-  "rank": 1034671,
+  "rank": 1035103,
   "recent": [
+   {
+    "title": "Valid Anagram",
+    "slug": "valid-anagram",
+    "ts": 1795432693
+   },
+   {
+    "title": "Product of the Last K Numbers",
+    "slug": "product-of-the-last-k-numbers",
+    "ts": 1795431041
+   },
    {
     "title": "First Bad Version",
     "slug": "first-bad-version",
@@ -131,20 +141,10 @@
     "title": "Binary Search",
     "slug": "binary-search",
     "ts": 1795182967
-   },
-   {
-    "title": "Minimum Score by Changing Two Elements",
-    "slug": "minimum-score-by-changing-two-elements",
-    "ts": 1795112545
-   },
-   {
-    "title": "Top K Frequent Elements",
-    "slug": "top-k-frequent-elements",
-    "ts": 1795029943
    }
   ],
   "streak": 24,
-  "active_days": 111,
-  "synced": "2026-11-23 01:14 UTC"
+  "active_days": 112,
+  "synced": "2026-11-23 11:30 UTC"
  }
 }
