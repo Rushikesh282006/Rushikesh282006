@@ -97,9 +97,14 @@
 <br/>
 
 <br/> <!-- ═════════════ GOALS ═════════════ -->
-🎯 Currently Leveling Up
-<div align="center"> <img src="./assets/goals.svg" alt="Currently leveling up: DSA patterns, scalable backend-driven AI/ML systems, and Graph Neural Networks" width="100%" /> </div> <br/> <!-- ═════════════ ACHIEVEMENTS ═════════════ -->
-🏆 Hackathons & Achievements
+
+## 🎯 Currently Leveling Up
+<div align="center"> <img src="./assets/goals.svg" alt="Currently leveling up: DSA patterns, scalable backend-driven AI/ML systems, and Graph Neural Networks" width="100%" /> </div> 
+<br/> 
+
+<!-- ═════════════ ACHIEVEMENTS ═════════════ -->
+
+## 🏆 Hackathons & Achievements
 <div align="center"> <img src="./assets/achievements.svg" alt="Smart India Hackathon 2x shortlisted, Hack on Track Top-10 team, 2nd academic rank in the IT branch in 1st and 2nd year" width="100%" /> </div> <br/> <!-- ═════════════ LIVE DASHBOARD ═════════════ -->
 
 <br/>
