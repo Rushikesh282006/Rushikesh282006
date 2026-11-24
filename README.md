@@ -96,25 +96,11 @@
 
 <br/>
 
-<!-- ═════════════ GOALS ═════════════ -->
-## 🎯 Currently Leveling Up
-
-<div align="center">
-
-| 🧩 Algorithmic Thinking | 🏗️ Robust Backends | 🔬 Advanced ML |
-|:---:|:---:|:---:|
-| Solving DSA patterns to sharpen problem-solving | Building scalable, backend-driven AI/ML systems | Exploring Graph Neural Networks & modern architectures |
-
-</div>
-
-<br/>
-
-<!-- ═════════════ ACHIEVEMENTS ═════════════ -->
-## 🏆 Hackathons & Achievements
-
-- 🇮🇳 **Smart India Hackathon** — 2× shortlisted (SIH 2025 & SIH 2026) in the college internal qualifier
-- 🥇 **Hack & Track** — Top-10 team, organized by Fr. Agnel College, Vashi
-- 🎓 **Academic Excellence** — Ranked **2nd** in the IT branch in both 1st and 2nd year
+<br/> <!-- ═════════════ GOALS ═════════════ -->
+🎯 Currently Leveling Up
+<div align="center"> <img src="./assets/goals.svg" alt="Currently leveling up: DSA patterns, scalable backend-driven AI/ML systems, and Graph Neural Networks" width="100%" /> </div> <br/> <!-- ═════════════ ACHIEVEMENTS ═════════════ -->
+🏆 Hackathons & Achievements
+<div align="center"> <img src="./assets/achievements.svg" alt="Smart India Hackathon 2x shortlisted, Hack on Track Top-10 team, 2nd academic rank in the IT branch in 1st and 2nd year" width="100%" /> </div> <br/> <!-- ═════════════ LIVE DASHBOARD ═════════════ -->
 
 <br/>
 
