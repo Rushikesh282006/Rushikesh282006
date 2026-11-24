@@ -10,24 +10,10 @@
 <a href="https://github.com/Rushikesh282006"><img src="https://img.shields.io/github/followers/Rushikesh282006?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" /></a>
 <img src="https://komarev.com/ghpvc/?username=Rushikesh282006&label=Profile%20Views&color=6366f1&style=for-the-badge" alt="Profile views" />
 
-<br/><br/>
-
-**✨ Consistent. Curious. Building with Intelligence. ✨**
+<br>
 
 </div>
 
-<br/>
-
-<!-- ═════════════ AT A GLANCE ═════════════ -->
-<div align="center">
-
-| 🎓 Academics | 🧠 Focus | 🏆 Hackathons | 🤝 Open To |
-|:---:|:---:|:---:|:---:|
-| **9.7 CGPA**<br/>3rd-year IT Engineering | **End-to-end ML pipelines**<br/>& AI-integrated backends | **SIH 2025 & 2026**<br/>Shortlisted · Top-10 Hack & Track | **Open-source collabs**<br/>with reciprocal teamwork |
-
-</div>
-
-<br/>
 
 <!-- ═════════════ ABOUT ═════════════ -->
 ## 🚀 About Me
